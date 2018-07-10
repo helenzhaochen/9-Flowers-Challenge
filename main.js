@@ -62,8 +62,8 @@ var drawflower= function(x,y,z,color) {
       .addTo(flowerGroup);
     }
 
-drawflower(100,0,0.5,'pink');
-drawflower(100,0,0.3,'pink');
+drawflower(100,0,0.5,'magenta');
+drawflower(0,250,0.3,'pink');
 drawflower(260,220,0.5,'aqua');
 drawflower(500,30,0.4,'blueviolet');
 drawflower(500,260,0.7,'magenta');
